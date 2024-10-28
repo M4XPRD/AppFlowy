@@ -310,7 +310,8 @@
     "favoriteSpace": "Избранное",
     "RecentSpace": "Недавнее",
     "Spaces": "Пространства",
-    "upgradeToPro": "Улучшитесь до Pro"
+    "upgradeToPro": "Улучшитесь до Pro",
+    "askOwnerToUpgradeToProIOS": "Место в вашем рабочем пространстве заканчивается."
   },
   "notifications": {
     "export": {
@@ -660,6 +661,7 @@
         "aiSettingsDescription": "Выберите или настройте модели ИИ, используемые в @:appName. Для достижения наилучшей производительности мы рекомендуем использовать параметры модели по умолчанию.",
         "loginToEnableAIFeature": "Функции ИИ активируются только после входа в систему с помощью @:appName Cloud. Если у Вас нет аккаунта @:appName, перейдите в раздел «Мой аккаунт», чтобы зарегистрироваться.",
         "llmModel": "Языковая модель",
+        "downloadLLMPrompt": "Загрузить {}",
         "title": "Ключи API ИИ",
         "openAILabel": "Ключ API OpenAI",
         "openAITooltip": "Вы можете найти свой секретный ключ API на странице ключа API.",
